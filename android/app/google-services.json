@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525777382210",
+    "project_id": "tasko-812cc",
+    "storage_bucket": "tasko-812cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525777382210:android:bceb76d200b74b6cf9f6db",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525777382210-eh1ct2v158aefqnq6p1ke9440tr8u8hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ei3JNvPmqgcRKaoaDckJJ8u5cR-nWVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525777382210-eh1ct2v158aefqnq6p1ke9440tr8u8hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
